@@ -1,8 +1,8 @@
 class Seat < Formula
   desc "Switch Claude Desktop accounts without signing in again"
   homepage "https://github.com/andwhy/claude_change_seat"
-  url "https://github.com/andwhy/claude_change_seat/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "ae20ffc782ee2567f390bade2b4d54557ba246d0f2e0a801f10f77755dfaf00d"
+  url "https://github.com/andwhy/claude_change_seat/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "0eb1d36ec91b158be9efb376fa7b682dbcd225767cf6d6c3d35a2c9285398f8d"
   license "MIT"
   head "https://github.com/andwhy/claude_change_seat.git", branch: "main"
 
